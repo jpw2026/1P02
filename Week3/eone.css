@@ -1,0 +1,13 @@
+body{
+  background-color:#333333;
+}
+
+#firstHeader{
+  color: red;
+  font-weight: 900;
+}
+
+.greenText{
+  color: green;
+  font-style: italic;
+}
