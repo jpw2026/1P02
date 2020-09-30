@@ -1,0 +1,30 @@
+.bigbox{
+    margin-top:20px;
+    margin-right:5%;
+    margin-bottom:20px;
+    margin-left:5%;
+    border: black 6px solid;
+}
+
+
+.topbox{
+    margin-top:2%;
+    margin-right:2%;
+    margin-left:2%;
+    border: green 3px dashed;
+}
+
+.bottombox{
+    margin-top:2%;
+    margin-right:70%;
+    border: yellow 3px dashed;
+    padding: 2% 2% 2% 2%;
+}
+
+p{
+    color: red
+}
+
+body{
+    background-color: blue;
+}
