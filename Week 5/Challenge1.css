@@ -1,0 +1,30 @@
+body{
+    color: white;
+    background-color: white;
+}
+
+#wrapper{
+    float:center;
+    background-color: white;
+
+}
+
+.mid{
+    padding-top: 25px;
+}
+
+#header{
+    height:70px;
+    text-align:center;
+    background-color: red;	
+}
+
+#leftbody{
+    height: 500px;
+    background-color:green;
+}
+
+#bottom{
+    height:50px;
+    background-color: blue;
+}
