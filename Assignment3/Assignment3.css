@@ -1,0 +1,128 @@
+body{
+	background-color: rgb(1, 1, 22);
+	font-family: Andale Mono;
+}
+
+
+#wrapper{
+	width:1000px;
+	margin:0 auto;
+	background-color:white;
+}
+
+#header{
+	height:50px;
+	text-align:center;
+	background-color: rgb(1, 1, 22);
+	color:rgb(255, 244, 219); 
+}
+
+.libusb{
+font-size: 30px;
+}
+
+.qexplaination{
+font-size: 15px;
+}
+
+#NavBar{
+	width:900px;
+	height: 60px;
+	margin: 0 auto;
+	background-color:#292933;
+	color:rgb(255, 244, 219); 
+	
+
+}
+
+.left{
+padding-top:  10px;
+padding-left: 200px;
+width: 100px;
+float:left;
+text-align: left;
+}
+
+.center{
+padding-top:  10px;
+padding-left: 100px;
+width: 100px;
+float: left;
+text-align: left;
+}
+
+.right{
+padding-top:  10px;
+padding-right: 200px;
+width: 100px;
+float: right;
+text-align: left;
+
+
+}
+
+
+#AboutBox{
+	margin:0 auto;
+	width:700px;
+	padding:5px;
+
+}
+ 
+.AboutText{
+	text-align: center;
+}
+
+.download{
+margin-left: 200px;
+
+}
+
+.OSs{
+	margin-left: 200px;
+	margin-right: 200px;
+	
+
+}
+
+.MacOS{
+	float: left;
+	width: 196px;
+	height: 150px;
+	background-color: rgb(247, 186, 74);
+	border: solid white 2px;
+
+}
+
+.Windows {
+	width: 196px;
+	height: 150px;
+	float: right;
+background-color: rgb(247, 186, 74);
+border: solid white 2px;
+
+
+}
+
+.LinuxBSD{
+	width: 196px;
+	height: 150px;
+	background-color:rgb(247, 186, 74);
+	border: solid white 2px;
+	float: left;
+
+}
+
+.penguin {
+float: center;
+
+
+}
+
+#bottom{
+	text-align:center;
+	height:100px;
+	clear:both;
+
+}
+
