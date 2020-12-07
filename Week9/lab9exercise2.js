@@ -7,5 +7,5 @@ var yearBorn = todayDate.getFullYear() - age;
     function Year()
     {
         if (age != null){
-  document.getElementById("year").innerHTML =  yearBorn;}
+  document.getElementById("times").innerHTML =  yearBorn;}
 }
